@@ -17,7 +17,7 @@ Se ocorrer algum erro, você pode tentar instalar uma versão específica do sci
 
 pip install scikit-learn==1.2.2
 
-2. Preparação do Ambiente
+###2. Preparação do Ambiente
 Baixe os arquivos do projeto do GitHub.
 Extraia os arquivos para uma pasta no seu computador.
 
